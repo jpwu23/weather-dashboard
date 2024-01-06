@@ -13,7 +13,7 @@ Takeaways from completing this project include the application of concepts serve
 N/A
 
 ## Usage 
-Go to link: https://jpwu23.github.io/Jimmy-Wu-Portfolio/ Enter a city name and a correpsonding ISO 3166 country code to generate a 5-day forecast of said city. You can Google this country code e.g. enter this in the corresponding inputs: London, GB
+Go to link: https://jpwu23.github.io/weather-dashboard/ Enter a city name and a correpsonding ISO 3166 country code to generate a 5-day forecast of said city. You can Google this country code e.g. enter this in the corresponding inputs: London, GB
 
 ![alt text](assets/images/screenshot2.PNG)
 
