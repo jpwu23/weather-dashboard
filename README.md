@@ -15,6 +15,8 @@ N/A
 ## Usage 
 Go to link: https://jpwu23.github.io/weather-dashboard/ Enter a city name and a correpsonding ISO 3166 country code to generate a 5-day forecast of said city. You can Google this country code e.g. enter this in the corresponding inputs: London, GB
 
+Search history will also be appended based on the searched city. Use the clear button to reset the search history as well as the input fields. 
+
 ![alt text](assets/images/screenshot2.PNG)
 
 ## Credits
