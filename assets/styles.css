@@ -1,0 +1,29 @@
+.navbar-content {
+    text-align: center;
+    background-color: blue;
+    color: white;
+    padding: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.search-bar {
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+.btn {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 10px;
+}
+
+.division-line {
+    align: left;
+    margin: 15px 15px;
+    width: 15%;
+}
+
+h3 {
+    display: inline-block;
+    padding-right: 20px;
+    margin-top: 10px;
+}
